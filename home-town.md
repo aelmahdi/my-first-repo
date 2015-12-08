@@ -1,5 +1,4 @@
 My home town directions
-testin
+testing
 
-testing 2	:wq
-g
+testing 2
